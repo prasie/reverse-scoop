@@ -1,6 +1,0 @@
-plaintext
-	numpy
-	pandas
-	matplotlib
-	ipywidgets
-	IPython.display
