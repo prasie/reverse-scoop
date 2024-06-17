@@ -1,7 +1,5 @@
-plaintext
-  numpy
-  pandas
-  matplotlib
-  ipywidgets
-  IPython.display
-  ipykernel
+ipykernel
+numpy
+pandas
+matplotlib
+ipywidgets
