@@ -1,7 +1,7 @@
 plaintext
-numpy
-pandas
-matplotlib
-ipywidgets
-IPython.display
-ipykernel
+  numpy
+  pandas
+  matplotlib
+  ipywidgets
+  IPython.display
+  ipykernel
